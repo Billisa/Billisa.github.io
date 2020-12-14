@@ -86,7 +86,7 @@ avatar:
   effect: false
 
 # The banner image of home page
-index_img: /img/bg.jpg
+index_img: /img/10.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: /img/bg.jpg
@@ -178,7 +178,7 @@ post_copyright:
   enable: true
   decode: false
   license: CC BY-NC-SA 4.0
-  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+  license_url: https://billisa.github.io/
 
 # Sponsor/reward
 reward:
@@ -471,7 +471,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(/img/bg.jpg)
+background: url(/img/10.jpg)
 
 # Footer Background
 footer_bg: false
