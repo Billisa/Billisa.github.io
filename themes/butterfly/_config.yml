@@ -131,9 +131,9 @@ error_img:
 
 # A simple 404 page
 error_404:
-  enable: false
-  subtitle: 'Page Not Found'
-  background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
+  enable: true
+  subtitle: '我跑去找Lisa了'
+  background: /img/lisa_emoji.png
 
 post_meta:
   page: # Home Page
@@ -749,6 +749,8 @@ artitalk:
   appId:
   appKey:
   option:
+    serverURL: 
+    lang: zh
 
 # Pjax [Beta]
 # It may contain bugs and unstable, give feedback when you find the bugs.
