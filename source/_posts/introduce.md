@@ -8,7 +8,7 @@ wrap: space
 top_img: ./img/2.jpg
 cover: ./img/2.jpg
 copyright_author_href: https://billisa.github.io/
-copyright_url: https://billisa.github.io/
+copyright_url: https://billisa.github.io/2020/12/15/introduce/
 ---
 
 # 第一次搭建博客
