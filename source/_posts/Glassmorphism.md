@@ -21,7 +21,7 @@ copyright_url: https://billisa.github.io/2020/12/15/1/
 ### 在backdrop-filter里面设置
 
 ``` bash
-  $ backdrop-filter:blur(8px);
+    backdrop-filter:blur(8px);
     background-color:rgba(255,255,255,0.25);
 ```
 </n>
